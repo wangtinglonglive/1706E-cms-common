@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>demo-day04</name>
+=======
+	<name>gittest</name>
+>>>>>>> branch 'master' of https://github.com/wangtinglonglive/1706E-cms-common.git
 	<comment></comment>
 	<projects>
 	</projects>
